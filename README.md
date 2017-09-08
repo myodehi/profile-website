@@ -19,6 +19,7 @@ Name of Movies | Category
 Hacksaw Ridge | Action
 Hercules| animation
 Inside out| Triller
+3 Idiots | Comedy
 
 There are also some amazing tv shows/series:tv: that i have really enjoy; *lost*, *law and order*, *shark tank*. You can watch series [here](https://watch-series.co/)
 
