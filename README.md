@@ -1,21 +1,26 @@
 # My Favorites Movies
-I have so many favorite movies that i would like to share
-with you all. i have different preference of the movies.
-some of movies :tv: categries i like:
+There are so many movies that i have enjoyed over time whether it is local or foreign movies, I just enjoy what really entertains me, learn from it or make me laugh hard. 
+There wide range of movies categories i enjoy watching.
+some of my favorite categories are listed below: 
 
 * Action 
     * War
 * Triller
-* Commedy
+* Animation
+* Comedy
 * Classic
 * Romance
 * Drama
 
-![Action](hacksaw1.jpg)
+![Hacksaw Ridge](hacksaw1.jpg)
 
-Name of Movies | Year released
+Name of Movies | Category
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Hacksaw Ridge | Action
+Hercules| animation
+Inside out| Triller
+
+There are also some amazing tv shows/series:tv: that i have really enjoy; *lost*, *law and order*, *shark tank*. You can watch series [here](https://watch-series.co/)
+
 
 More on [Best Movies of all times](https://www.rottentomatoes.com/top/)
